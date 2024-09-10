@@ -11,3 +11,9 @@ section {
 #section1 { background-color: #ff5733; }
 #section2 { background-color: #33c1ff; }
 #section3 { background-color: #75ff33; }
+
+img {
+    width: 40%; /* Bildens bredd är 80% av sektionens bredd */
+    height: auto; /* Bevarar bildens proportioner */
+    margin-top: 10px;
+}
