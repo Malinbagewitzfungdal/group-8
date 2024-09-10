@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 section {
     height: 25vh; /* Varje sektion får 25% av höjden */
     display: flex;
@@ -11,3 +12,23 @@ section {
 #section1 { background-color: #ff5733; }
 #section2 { background-color: #33c1ff; }
 #section3 { background-color: #75ff33; }
+=======
+ body {
+     background-color: #93b3d7;
+     padding: 20px;
+ }
+
+ header {
+     background-color: rgb(248, 249, 228);
+     margin: 15px 15px 15px 15px;
+     padding: 5px;
+     text-align: center;
+     padding-top: 30px;
+     border-radius: 7px;
+     opacity: 90;
+ }
+
+ h1 {
+     color: rgba(69, 20, 20, 0.37);
+ }
+>>>>>>> d2cbd9d8722437c7a764b3e71de56f06cfe24e2e
