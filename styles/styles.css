@@ -9,9 +9,9 @@ section {
 }
 
 /* Unika färger för varje sektion */
-#section1 { background-color: #ff5733; }
-#section2 { background-color: #33c1ff; }
-#section3 { background-color: #75ff33; }
+#section1 { background-color: rgb(198, 156, 109); } /*Ljustbrunt kaffe */
+#section2 { background-color: rgb(139, 69, 19); }/*cappuccino */
+#section3 { background-color: rgb(121, 60, 36); }/*espresso*/
 =======
  body {
      background-color: #93b3d7;
